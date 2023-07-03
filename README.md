@@ -1,5 +1,7 @@
 # Prometheus SNMP Exporter
 
+This dashboard is based on ID 14420, 14857 Mikrotik
+
 This exporter is the recommended way to expose SNMP data in a format which
 Prometheus can ingest.
 
